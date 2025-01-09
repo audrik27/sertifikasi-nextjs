@@ -9,7 +9,7 @@ export default function Introduction() {
           <p className="text-[#FCFFC1] text-2xl font-bold">Komputer Akuntansi</p>
           <h2 className="text-7xl font-bold text-[#D4EBF8]">Hello I&apos;m</h2>
           <h2 className="text-7xl font-bold text-[#D4EBF8]">Audrik</h2>
-        
+        s
           <div className="my-8">
             <p className="text-white max-w-lg">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
