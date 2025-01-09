@@ -7,7 +7,7 @@ export default function Introduction() {
         <div className="flex justify-between items-center">
           <div>
           <p className="text-[#FCFFC1] text-2xl font-bold">Komputer Akuntansi</p>
-          <h2 className="text-7xl font-bold text-[#D4EBF8]">Hello I'm</h2>
+          <h2 className="text-7xl font-bold text-[#D4EBF8]">Hello I&apos;m</h2>
           <h2 className="text-7xl font-bold text-[#D4EBF8]">Audrik</h2>
         
           <div className="my-8">
